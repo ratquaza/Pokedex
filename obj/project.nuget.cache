@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2y5ET2FXgnC3+4oN3yu/fsn+b6ywFn0T7SfkaLmJwGH/aW8CAvLcL1RQ7+n1QxKI/zNckGzzrCPSI+eWmPjmg==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Pokedex\\Pokedex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\5.0.1\\system.drawing.common.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
