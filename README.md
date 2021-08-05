@@ -1,4 +1,4 @@
 # ~~Pokedex~~
 ~~C# based, dynamically loaded Pokedex using PokeAPI~~
 
-Deprecated for now, Pokedex2 is planned to replace it
+Deprecated, [continued at Pokedex2](https://github.com/ratquaza/Pokedex2)
